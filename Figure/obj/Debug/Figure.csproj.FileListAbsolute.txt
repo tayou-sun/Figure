@@ -1,0 +1,5 @@
+c:\users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure\bin\Debug\Figure.dll
+c:\users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure\bin\Debug\Figure.pdb
+c:\users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure\obj\Debug\Figure.csprojResolveAssemblyReference.cache
+c:\users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure\obj\Debug\Figure.dll
+c:\users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure\obj\Debug\Figure.pdb
