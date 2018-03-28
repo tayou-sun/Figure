@@ -1,7 +1,0 @@
-c:\Users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure.Tests\bin\Debug\Figure.Tests.dll
-c:\Users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure.Tests\bin\Debug\Figure.Tests.pdb
-c:\Users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure.Tests\bin\Debug\Figure.dll
-c:\Users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure.Tests\bin\Debug\Figure.pdb
-c:\Users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure.Tests\obj\Debug\Figure.Tests.csprojResolveAssemblyReference.cache
-c:\Users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure.Tests\obj\Debug\Figure.Tests.dll
-c:\Users\n.avetisova\documents\visual studio 2013\Projects\Figure\Figure.Tests\obj\Debug\Figure.Tests.pdb
